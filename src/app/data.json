@@ -1,0 +1,73 @@
+{
+  "pages": [
+    {
+      "id": 1,
+      "title": "The Hotel",
+      "image": "https://q-xx.bstatic.com/xdata/images/hotel/max500/559584698.jpg?k=fbf75d6c59888fe8d14eb99064b0af4ceea2258632178345751d8e2fa6e843c7&o="
+    },
+    {
+      "id": 2,
+      "title": "Rooms",
+      "image": "https://hydehotels.com/wp-content/uploads/sites/4/2024/05/hydebodrum-bed-beigeheadboard-creamseat.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Restaurants",
+      "image": "https://cdn.vox-cdn.com/uploads/chorus_image/image/62582192/IMG_2025.280.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Spa",
+      "image": "https://thegrandhotram.com/wp-content/uploads/2021/08/S43695-min.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Events",
+      "image": "https://blog.topcv.vn/wp-content/uploads/2021/07/sk2uEvents_Page_Header_2903ed9c-40c1-4f6c-9a69-70bb8415295b.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Kids Club",
+      "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://neworienthoteldanang.com/wp-content/uploads/2023/09/kid1-1.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Gallery",
+      "image": "https://artgallery.yale.edu/sites/default/files/styles/hero_small/public/2023-01/ag-doc-2281-0036-pub.jpg?h=147a4df9&itok=uclO7OrF"
+    }
+  ],
+  "features": [
+    {
+      "id": 1,
+      "title": "Blog"
+    },
+    {
+      "id": 2,
+      "title": "Offers"
+    },
+    {
+      "id": 3,
+      "title": "Gift Cards"
+    },
+    {
+      "id": 4,
+      "title": "Weddings"
+    },
+    {
+      "id": 5,
+      "title": "Meeting Rooms"
+    },
+    {
+      "id": 6,
+      "title": "Conference Facilities"
+    },
+    {
+      "id": 7,
+      "title": "Contact"
+    },
+    {
+      "id": 8,
+      "title": "Work with us"
+    }
+  ]
+}
